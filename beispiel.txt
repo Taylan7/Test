@@ -1,1 +1,2 @@
 Diese Datei dient lediglich Beispiel.
+Ein Beitrag aus einem lokalen Ordner!
